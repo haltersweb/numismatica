@@ -1,2 +1,2 @@
 # numismatica
-a site for numismatists, namely ancient coin collectors
+A site for numismatists, namely ancient coin collectors.
