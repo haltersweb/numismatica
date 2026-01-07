@@ -1,0 +1,65 @@
+:root {
+  font-family: "droid-sans", Helvetica, Arial, system-ui, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.syncopate-regular {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.droid-sans-regular {
+    font-family: "droid-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.droid-sans-bold {
+    font-family: "droid-sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.droid-serif-regular {
+    font-family: "droid-serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.droid-serif-italic {
+    font-family: "droid-serif", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.droid-serif-bold {
+    font-family: "droid-serif", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.droid-serif-bold-italic {
+    font-family: "droid-serif", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "droid-serif", Garamond, Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+header {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav {
+    font-family: "droid-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
